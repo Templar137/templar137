@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 biostatistics or Digital healthcare에 관심있음
 
 
-### 수상경력 & 프로젝트
+## 수상경력 & 프로젝트
 
 17-1 창의학습공동체 동상 수상
 (신약 데이터로 약의 효능이 존재하는지 검정)
