@@ -28,7 +28,7 @@ biostatistics or Digital healthcare에 관심있음
 20-2 교내 해커톤 경시대회 장려상 수상
 (음식 분류 모델을 이용한 학식 추천 모델)
 
-치매환자 분류 경진대회 7등 / 29
+과기부 주최 AI 경진대회 치매환자 분류주제 7등 / 29
 
 DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
 ***(Part 2 기획중)***
