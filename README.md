@@ -32,7 +32,7 @@ biostatistics or Digital healthcare에 관심있음
 
 DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
 
-***(Part 2 기획중)
+***(Part 2 기획중)***
 
 Dacon Samsung AI Challenge -ing
 
