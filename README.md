@@ -31,6 +31,7 @@ biostatistics or Digital healthcare에 관심있음
 치매환자 분류 경진대회 7등 / 29
 
 DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
+
 ***(Part 2 기획중)
 
 Dacon Samsung AI Challenge -ing
