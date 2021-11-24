@@ -33,6 +33,7 @@ biostatistics or Digital healthcare에 관심있음
 DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
 ***(Part 2 기획중)***
 
+CJ AI 빅데이터 미래기술 챌린지 수상 확정!
 Dacon Samsung AI Challenge -ing
 
 
