@@ -25,13 +25,17 @@ biostatistics or Digital healthcare에 관심있음
 20-2 교내 해커톤 경시대회 장려상 수상
 (음식 분류 모델을 이용한 학식 추천 모델)
 
-과기부 주최 AI 경진대회 치매환자 분류주제 7등 / 29
+과기부 주최 AI 경진대회 치매환자 분류주제 7th / 29
 
 DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
-***(Part 2 기획중)***
 
-CJ AI 빅데이터 미래기술 챌린지 수상 확정!
+CJ AI 빅데이터 미래기술 챌린지 입선 수상!
 
-Dacon Samsung AI Challenge -ing
+2021 CJ 대한통운 동계 인턴십 진행 (22.01.10 ~ 22.02.28)
+- Tableau를 활용한 코로나19 심각도와 각 계약업체간 시계열 상관성 분석 및 시각화
+
+2022 통계데이터 인공지능 활용대회 32th / 411 (상위 7.8%)
+
+
 
 
