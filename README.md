@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 2021년
 과기부 주최 AI 경진대회 치매환자 분류주제 7th / 29
 
-DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 
+DeepLearning을 활용한 Starcraft2 Cinematic Super Resolution (720p) 프로젝트 진행
 
 CJ AI 빅데이터 미래기술 챌린지 입선 수상!
 
