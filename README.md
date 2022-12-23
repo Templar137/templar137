@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-세종대 수학통계학부 응용통계학과 전공중입니다! (23.02 졸업예정)
-
-상당히 도전적이고, 배운 내용을 실용적으로 사용하는 것을 좋아합니다!
+2016 ~ 2023.02 B.S in Applied Statistics, Sejong University
+2023.02 ~ GIST AI Graduate Master degree Course
 
 
 # 수상경력 & 프로젝트
