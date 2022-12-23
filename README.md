@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 2016 ~ 2023.02 B.S in Applied Statistics, Sejong University
+
 2023.02 ~ GIST AI Graduate Master degree Course
 
 
